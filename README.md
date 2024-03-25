@@ -1,5 +1,5 @@
 # ML_Assignment_Example
-
+dataset:https://www.kaggle.com/c/plant-seedlings-classification
 ## 1. Loss Curve
 ![loss](PIC/Figure_1.png)
 
